@@ -1,0 +1,260 @@
+{
+  "questions": [
+    {
+      "question": "Tell me about a product you launched successfully.",
+      "tags": ["Product Design", "Behavioral"]
+    },
+    {
+      "question": "What's your favorite product and why?",
+      "tags": ["Guesstimates", "Behavioral"]
+    },
+    {
+      "question": "Design a product for drivers driving in rush hours",
+      "tags": ["Product Strategy", "Behavioral"]
+    },
+    {
+      "question": "Design a fire alarm for the deaf.",
+      "tags": ["Product Design", "Analytics"]
+    },
+    {
+      "question": "Should Meta build a dating app?",
+      "tags": ["Product Design", "System Design"]
+    },
+    {
+      "question": "How do you prioritize features when designing a new product?",
+      "tags": ["Product Design", "Product Strategy"]
+    },
+    {
+      "question": "Estimate the number of smartphones sold worldwide in the last year.",
+      "tags": ["Guesstimates", "Analytics"]
+    },
+    {
+      "question": "What factors do you consider when defining a product's go-to-market strategy?",
+      "tags": ["Product Strategy", "Behavioral"]
+    },
+    {
+      "question": "Tell me about a time when you had to influence stakeholders to adopt a new product idea.",
+      "tags": ["Behavioral", "Product Strategy"]
+    },
+    {
+      "question": "How do you use data analytics to inform product decisions?",
+      "tags": ["Analytics", "Product Strategy"]
+    },
+    {
+      "question": "How do you approach designing scalable architectures for cloud-based products?",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "question": "What programming languages and frameworks are you proficient in as a product manager?",
+      "tags": ["Technical", "Product Design"]
+    },
+    {
+      "question": "Can you discuss a time when you successfully led a product from concept to launch?",
+      "tags": ["Product Strategy", "Behavioral"]
+    },
+    {
+      "question": "Estimate the market size for electric bicycles in the next five years.",
+      "tags": ["Guesstimates", "Product Strategy"]
+    },
+    {
+      "question": "How do you approach pricing strategy for new products?",
+      "tags": ["Product Strategy", "Behavioral"]
+    },
+    {
+      "question": "How do you handle conflict within a product team?",
+      "tags": ["Behavioral", "Product Management"]
+    },
+    {
+      "question": "Can you discuss a time when you used A/B testing to optimize a product feature?",
+      "tags": ["Analytics", "Product Design"]
+    },
+    {
+      "question": "How do you balance performance and cost considerations in system design?",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "question": "What steps do you take to stay updated on emerging technologies relevant to your products?",
+      "tags": ["Technical", "Product Strategy"]
+    },
+    {
+      "question": "How do you ensure that your products are user-centered and meet customer needs?",
+      "tags": ["Analytics", "Product Design"]
+    },
+    {
+      "question": "Estimate the number of pizza delivery orders placed in your city each day.",
+      "tags": ["Guesstimates", "Analytics"]
+    },
+    {
+      "question": "Describe your process for conducting a SWOT analysis for a new product.",
+      "tags": ["Product Strategy", "Product Design"]
+    },
+    {
+      "question": "Describe a time when you had to navigate ambiguity in a product management role.",
+      "tags": ["Behavioral", "Product Management"]
+    },
+    {
+      "question": "Describe your experience with continuous integration and continuous deployment (CI/CD) pipelines.",
+      "tags": ["Technical", "System Design"]
+    },
+    {
+      "question": "How do you foster a culture of innovation and creativity within your product team?",
+      "tags": ["Product Management", "Behavioral"]
+    },
+    {
+      "question": "Can you explain the concept of microservices architecture and its advantages in product development?",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "question": "How do you ensure that your products are aligned with the overall vision and strategy of your organization?",
+      "tags": ["Product Management", "Product Strategy"]
+    },
+    {
+      "question": "Estimate the number of cars currently on the roads in your country.",
+      "tags": ["Guesstimates", "Analytics"]
+    },
+    {
+      "question": "How do you evaluate potential partnerships or acquisitions as part of a product strategy?",
+      "tags": ["Product Strategy", "Behavioral"]
+    },
+    {
+      "question": "What strategies do you use to motivate and inspire your product team?",
+      "tags": ["Behavioral", "Product Management"]
+    },
+    {
+      "question": "Can you discuss a time when you had to interpret data to identify trends or insights for a product.",
+      "tags": ["Analytics", "Product Strategy"]
+    },
+    {
+      "question": "Describe your approach to designing data storage solutions for large-scale applications.",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "question": "Tell me about a time when you collaborated with engineers to solve a technical challenge.",
+      "tags": ["Technical", "Product Management"]
+    },
+    {
+      "question": "How do you ensure that your products are aligned with market trends and customer needs?",
+      "tags": ["Analytics", "Product Strategy"]
+    },
+    {
+      "question": "Estimate the annual revenue of the global coffee industry.",
+      "tags": ["Guesstimates", "Analytics"]
+    },
+    {
+      "question": "Describe a time when you had to pivot a product strategy based on market feedback.",
+      "tags": ["Product Strategy", "Product Design"]
+    },
+    {
+      "question": "What strategies do you use to manage stress and pressure in a product management role?",
+      "tags": ["Behavioral", "Product Management"]
+    },
+    {
+      "question": "Can you explain the importance of cohort analysis and its relevance to product management?",
+      "tags": ["Analytics", "Product Strategy"]
+    },
+    {
+      "question": "How do you ensure reliability and fault tolerance in distributed systems?",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "question": "What tools or platforms do you use for product analytics and reporting?",
+      "tags": ["Technical", "Analytics"]
+    },
+    {
+      "question": "Estimate the number of daily active users on Instagram.",
+      "tags": ["Guesstimates", "Analytics"]
+    },
+    {
+      "question": "How do you balance short-term revenue goals with long-term strategic objectives?",
+      "tags": ["Product Strategy", "Product Management"]
+    },
+    {
+      "question": "Describe a situation where you had to adapt to changes in project scope or requirements.",
+      "tags": ["Behavioral", "Product Management"]
+    },
+    {
+      "question": "Describe a time when you had to iterate on a product design based on user feedback.",
+      "tags": ["Product Design", "Behavioral"]
+    },
+    {
+      "question": "How do you incorporate accessibility features into your product design?",
+      "tags": ["Product Design", "Product Strategy"]
+    },
+    {
+      "question": "How do you handle feature requests from high-value customers versus the broader user base?",
+      "tags": ["Behavioral", "Product Strategy"]
+    },
+    {
+      "question": "Describe your approach to setting up and analyzing product experiments.",
+      "tags": ["Analytics", "Product Design"]
+    },
+    {
+      "question": "How do you approach designing APIs for integrating with third-party systems?",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "question": "Tell me about a time when you had to troubleshoot a complex technical issue in system design.",
+      "tags": ["Technical", "System Design"]
+    },
+    {
+      "question": "Estimate the number of trees in a national forest.",
+      "tags": ["Guesstimates", "Analytics"]
+    },
+    {
+      "question": "How do you ensure that your products are positioned effectively in the market?",
+      "tags": ["Product Strategy", "Product Design"]
+    },
+    {
+      "question": "What strategies do you use to manage conflict within a product team?",
+      "tags": ["Behavioral", "Product Management"]
+    },
+    {
+      "question": "Can you discuss a time when you had to use data-driven insights to drive product innovation?",
+      "tags": ["Analytics", "Product Strategy"]
+    },
+    {
+      "question": "How do you ensure reliability and fault tolerance in distributed systems?",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "question": "What tools or platforms do you use for product analytics and reporting?",
+      "tags": ["Technical", "Analytics"]
+    },
+    {
+      "question": "Estimate the number of daily active users on Instagram.",
+      "tags": ["Guesstimates", "Analytics"]
+    },
+    {
+      "question": "How do you balance short-term revenue goals with long-term strategic objectives?",
+      "tags": ["Product Strategy", "Product Management"]
+    },
+    {
+      "question": "Describe a situation where you had to adapt to changes in project scope or requirements.",
+      "tags": ["Behavioral", "Product Management"]
+    },
+    {
+      "question": "Describe a time when you had to iterate on a product design based on user feedback.",
+      "tags": ["Product Design", "Behavioral"]
+    },
+    {
+      "question": "How do you incorporate accessibility features into your product design?",
+      "tags": ["Product Design", "Product Strategy"]
+    },
+    {
+      "question": "How do you handle feature requests from high-value customers versus the broader user base?",
+      "tags": ["Behavioral", "Product Strategy"]
+    },
+    {
+      "question": "Describe your approach to setting up and analyzing product experiments.",
+      "tags": ["Analytics", "Product Design"]
+    },
+    {
+      "question": "How do you approach designing APIs for integrating with third-party systems?",
+      "tags": ["System Design", "Technical"]
+    },
+    {
+      "question": "Tell me about a time when you had to troubleshoot a complex technical issue in system design.",
+      "tags": ["Technical", "System Design"]
+    }
+  ]
+}
